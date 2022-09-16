@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shruti-Shikhare
-- 👀 I’m interested in Data Science in Healthcare and Digital Health
-- 🌱 I’m currently learning Deep Learning and Computer Vision for Biomedical Imaging
-- 💞️ I’m looking to collaborate on a project or startup role in healthcare data science 
+- 👀 I’m interested in Healthcare and Biomedical Science
+- 🌱 I’m currently learning Computer Vision for Biomedical Imaging, and AI/Data Science for Multi-Omics.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shruti-shikhare-991415147/
 
 <!---
